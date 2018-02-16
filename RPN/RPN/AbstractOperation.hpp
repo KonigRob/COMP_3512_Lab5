@@ -4,9 +4,8 @@
 class AbstratOperation : public Operation
 {
 	char operation_type;
-
 public:
-	AbstratOperation(char sign) : operation_type(sign) {};
+	AbstratOperation(char sign) : operation_type{ sign } {};
 	char get_code() override {return operation_type;}
 	virtual ~AbstratOperation() {}
 };
