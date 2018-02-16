@@ -23,5 +23,8 @@
     <ClInclude Include="Operation.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="AbstractOperation.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
