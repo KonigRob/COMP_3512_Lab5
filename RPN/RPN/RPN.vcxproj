@@ -155,6 +155,7 @@
     <ClInclude Include="DivisionOperation.hpp" />
     <ClInclude Include="MultiplicationOperation.hpp" />
     <ClInclude Include="Operation.hpp" />
+    <ClInclude Include="RNPCalculator.hpp" />
     <ClInclude Include="SubtractionOperation.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

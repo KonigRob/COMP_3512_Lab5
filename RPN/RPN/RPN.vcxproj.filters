@@ -38,5 +38,8 @@
     <ClInclude Include="DivisionOperation.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="RNPCalculator.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
